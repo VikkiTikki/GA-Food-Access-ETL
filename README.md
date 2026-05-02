@@ -10,7 +10,7 @@ This project builds an ETL pipeline to clean, validate, and analyze USDA Food Ac
 
 ## Files
 - GA_Food_Access_ETL.ipynb
-- GA_Food_Access_ETL.html
+- FoodAccessResearchAtlasData2019.xlsx
 
 ## Data
 The dataset used in this project is from the USDA Food Access Research Atlas (2019).  
